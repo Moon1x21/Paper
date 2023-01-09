@@ -1,8 +1,8 @@
----
-title: NeRF:Representing Scenes as Neural Radiance Fields for View Synthesis
-author: Ben Mildenhall* Pratul P. Srinivasan* Matthew Tancik* Jonathan T. Barron Ravi Ramamoorthi Ren Ng
-url: https://arxiv.org/pdf/2003.08934.pdf#page=16&zoom=100,45,564
----
+
+# NeRF:Representing Scenes as Neural Radiance Fields for View Synthesis
+# author: Ben Mildenhall* Pratul P. Srinivasan* Matthew Tancik* Jonathan T. Barron Ravi Ramamoorthi Ren Ng
+## url: https://arxiv.org/pdf/2003.08934.pdf#page=16&zoom=100,45,564
+
 
 ## Summary of paper:
 
